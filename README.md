@@ -53,3 +53,9 @@ IMAGE SHARPENING
 
 
 ![IS](https://user-images.githubusercontent.com/42671977/85917141-57168700-b875-11ea-8a51-93cf0e550c90.png)
+
+
+THRESHOLD TRUNCATE
+
+
+![TT](https://user-images.githubusercontent.com/42671977/85917194-ad83c580-b875-11ea-91ea-2208fc850258.png)
