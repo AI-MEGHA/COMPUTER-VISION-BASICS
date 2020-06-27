@@ -38,3 +38,9 @@ CROPPED IMAGE
 
 ![CI](https://user-images.githubusercontent.com/42671977/85917039-33067600-b874-11ea-9b17-afa451ecb94c.png)
 
+BLURRED IMAGE
+
+
+![blurr](https://user-images.githubusercontent.com/42671977/85917073-a27c6580-b874-11ea-84f1-fe68ec77ae7e.png)
+
+
