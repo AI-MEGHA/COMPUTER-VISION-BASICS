@@ -28,3 +28,8 @@ BLUE LINE
 POLYGON
 
 ![PG](https://user-images.githubusercontent.com/42671977/85916901-ab6c3780-b872-11ea-89d4-67f132b9ec62.png)
+
+ROTATED IMAGE
+
+
+![RI](https://user-images.githubusercontent.com/42671977/85916989-aeb3f300-b873-11ea-82c0-2f85e4d56efb.png)
