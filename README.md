@@ -64,3 +64,15 @@ ADAPTIVE MEAN THRESHOLD
 
 ![AMT](https://user-images.githubusercontent.com/42671977/85917249-1cf9b500-b876-11ea-8994-fdb548e439e3.png)
 
+DILATION
+
+
+![DILATION](https://user-images.githubusercontent.com/42671977/85917316-baed7f80-b876-11ea-982a-d2c4c4794801.png)
+
+
+EROSION
+
+
+![EROSION](https://user-images.githubusercontent.com/42671977/85917317-bcb74300-b876-11ea-9ad2-01a1409ca4a5.png)
+
+
