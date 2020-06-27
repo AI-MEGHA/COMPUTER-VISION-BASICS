@@ -59,3 +59,8 @@ THRESHOLD TRUNCATE
 
 
 ![TT](https://user-images.githubusercontent.com/42671977/85917194-ad83c580-b875-11ea-91ea-2208fc850258.png)
+
+ADAPTIVE MEAN THRESHOLD
+
+![AMT](https://user-images.githubusercontent.com/42671977/85917249-1cf9b500-b876-11ea-8994-fdb548e439e3.png)
+
