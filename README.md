@@ -33,3 +33,8 @@ ROTATED IMAGE
 
 
 ![RI](https://user-images.githubusercontent.com/42671977/85916989-aeb3f300-b873-11ea-82c0-2f85e4d56efb.png)
+
+CROPPED IMAGE
+
+![CI](https://user-images.githubusercontent.com/42671977/85917039-33067600-b874-11ea-9b17-afa451ecb94c.png)
+
